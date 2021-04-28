@@ -8,6 +8,7 @@ Travaux pratiques pour le module Traitement de données massives
 * [TP1](fr/TP1/tp1.md) :: [Notebook Jupyter 1](fr/TP1/tp1.ipynb)
 * [TP2](fr/TP2/tp2.md) :: [Notebook Jupyter 2](fr/TP2/tp2.ipynb)
 * [TP3](fr/TP3/tp3.md) :: [Notebook Jupyter 3](fr/TP3/tp3.ipynb)
+* [TP4](fr/TP4/tp4.md) :: [Notebook Jupyter 4](fr/TP4/tp4.ipynb)
 * [Projet](fr/Projet/Projet.md)
 
 ## English 
@@ -17,6 +18,7 @@ Travaux pratiques pour le module Traitement de données massives
 * [Practicals 1](en/practical1/practical1.md) ::  [Jupyter Notebook 1](en/practical1/practical1.ipynb)
 * [Practicals 2](en/practical2/practical2.md) ::  [Jupyter Notebook 2](en/practical2/practical2.ipynb)
 * [Practicals 3](en/practical3/practical3.md) ::  [Jupyter Notebook 3](en/practical3/practical3.ipynb)
+* [Practicals 4](en/practical4/practical4.md) ::  [Jupyter Notebook 3](en/practical4/practical4.ipynb)
 * [Project](en/Project/project.md)
 
 # Author
