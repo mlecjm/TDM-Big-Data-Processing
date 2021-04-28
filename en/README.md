@@ -6,6 +6,7 @@
 * [Practicals 2](./practical2/practical2.md):  [Jupyter Notebook 2](./practical2/practical2.ipynb)
 * [Practicals 3](./practical3/practical3.md):  [Jupyter Notebook 3](./practical3/practical3.ipynb)
 * [Practicals 4](./practical4/practical4.md) ::  [Jupyter Notebook 4](./practical4/practical4.ipynb)
+* [Practicals 5](./practical5/practical5.md) ::  [Jupyter Notebook 5](./practical5/practical5.ipynb)
 * [Project](./Project/project.md)
 
 ## Difficulty levels 
