@@ -3,7 +3,7 @@
 - Mise en place d'un [système de recommandation] (https://en.wikipedia.org/wiki/Recommender_system) bien commenté en Python
 - Rédaction du rapport de projet.
 
-### Projet
+### Projet partie 1
 
 
 L'objectif de ce projet est de recommander des images en fonction des préférences
@@ -148,3 +148,27 @@ Les critères d'évaluation des projets sont indiqués ci-dessous :
     3. Bibliographie
 
 
+### Projet partie 2
+
+L'objectif de cette partie est de modulariser les différentes tâches effectuées dans la partie 1
+et de créer des composants installables pour chacune d'entre elles en utilisant Docker.
+
+Pour cette partie, vous devez identifier les différentes tâches indépendantes de la partie 1
+de votre projet.
+Une fois ces tâches identifiées, effectuez les opérations suivantes sur chaque tâche :
+1. Identifiez la partie répétitive (par exemple, les boucles).
+2. Remplacer la partie répétitive par map-reduce, expressions lambda et pyspark.
+3. Créez un conteneur Docker pour cette tâche.
+4. Utilisez des volumes Docker pour le partage de fichiers (CSV, JSON, images, etc.) entre les conteneurs.
+
+Vous devez disposer d'un minimum de trois conteneurs pour votre projet.
+Par exemple, un conteneur Docker pour l'acquisition des données, un autre pour l'analyse des données et un autre pour la recommandation.
+Vous pouvez avoir des conteneurs supplémentaires.
+
+### Évaluation
+
+Les critères d'évaluation du projet sont donnés ci-dessous :
+1. Création de différentes tâches indépendantes.
+2. Utilisation de volumes Docker pour le partage de données entre différents conteneurs.
+3. Utilisation du framework map-reduce et des expressions lambda.
+4. Utilisation de pyspark.
