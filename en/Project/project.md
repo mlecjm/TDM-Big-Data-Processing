@@ -3,7 +3,7 @@
 -   Implementation of a well-commented [Recommender system](https://en.wikipedia.org/wiki/Recommender_system) in Python
 -   Writing of project report.
 
-### Project
+### Project Part 1
 
 
 The goal of this project is to recommend images based on the preferences
@@ -169,3 +169,28 @@ The criteria for the project evaluation is given below:
         diagrams, a summary of different tasks achieved, and limitations
     3. Bibliography
 
+### Project Part 2
+
+The goal of this part is to modularize the different tasks done in Part 1
+and create installable components for each of them using Docker.
+
+For this part, you have to identify the different independent tasks of the part 1
+of your project.
+Once these tasks have been identified, perform the following operations on each task:
+1. Identify the repeating portion (for example, loops).
+2. Replace the repeating portion by map-reduce, lambda expressions and pyspark.
+3. Create a Docker container for this task.
+4. Use of Docker volumes for sharing files (CSV, JSON, images etc.) among containers.
+
+You must have a minimum of three containers for your project. 
+For example, a Docker container for the data acquisition, another for 
+data analysis and another for recommendation.
+You may have additional containers.
+ 
+### Evaluation
+
+The criteria for the project evaluation is given below:
+1. Creation of different independent tasks.
+2. Use of Docker volumes for data sharing between different containers.
+3. Use of map-reduce framework and lambda expressions.
+4. Use of pyspark.
