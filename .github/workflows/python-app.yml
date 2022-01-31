@@ -39,6 +39,12 @@ jobs:
         cd ../../ ; cd en/practical3/
         papermill practical3.ipynb tmp.ipynb
         rm tmp.ipynb
+        cd ../../ ; cd en/practical4/
+        papermill practical4.ipynb tmp.ipynb
+        rm tmp.ipynb
+        cd ../../ ; cd en/practical5/
+        papermill practical5.ipynb tmp.ipynb
+        rm tmp.ipynb
         cd ../../ ; cd fr/TP0/
         papermill tp0.ipynb tmp.ipynb
         rm tmp.ipynb
@@ -51,4 +57,10 @@ jobs:
         cd ../../ ; cd fr/TP3/
         papermill tp3.ipynb tmp.ipynb
         rm tmp.ipynb
+        cd ../../ ; cd fr/TP4/
+        papermill tp4.ipynb tmp.ipynb
+        rm tmp.ipynb        
+        cd ../../ ; cd fr/TP5/
+        papermill tp5.ipynb tmp.ipynb
+        rm tmp.ipynv
 
