@@ -62,5 +62,5 @@ jobs:
         rm tmp.ipynb        
         cd ../../ ; cd fr/TP5/
         papermill tp5.ipynb tmp.ipynb
-        rm tmp.ipynv
+        rm tmp.ipynb
 
