@@ -6,3 +6,4 @@ ipython
 ipykernel
 jupyter-core
 pyspark
+pyarrow
