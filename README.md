@@ -12,6 +12,8 @@ Travaux pratiques pour le module Traitement de données massives
 * [TP5](fr/TP5/tp5.md) :: [Notebook Jupyter 5](fr/TP5/tp5.ipynb)
 * [Projet](fr/Projet/Projet.md)
 
+* [Exemples supplémentaires](examples/README.md)
+
 ## English 
 ### Exercises
 * [Instructions](en/README.md)
@@ -22,6 +24,8 @@ Travaux pratiques pour le module Traitement de données massives
 * [Practicals 4](en/practical4/practical4.md) ::  [Jupyter Notebook 4](en/practical4/practical4.ipynb)
 * [Practicals 5](en/practical5/practical5.md) ::  [Jupyter Notebook 5](en/practical5/practical5.ipynb)
 * [Project](en/Project/project.md)
+
+* [Additional examples](examples/README.md)
 
 # Author
 * John Samuel
