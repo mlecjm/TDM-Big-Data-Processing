@@ -10,4 +10,5 @@ pyarrow
 mathjax>=0.1.2
 black[jupyter]
 plotly
-plotly-calplot
+calplot
+folium
