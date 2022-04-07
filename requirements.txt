@@ -13,3 +13,4 @@ plotly
 calplot
 folium
 sparqlwrapper
+shapely
