@@ -63,4 +63,7 @@ jobs:
         cd ../../ ; cd fr/TP5/
         papermill tp5.ipynb tmp.ipynb
         rm tmp.ipynb
+        cd ../../ ; cd examples/
+        papermill Examples-Visualization.ipynb tmp.ipynb
+        rm tmp.ipynb
 
