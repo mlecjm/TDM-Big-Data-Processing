@@ -1,12 +1,12 @@
 # TDM 
 
 ## Exercises
-* [Practicals 0](./practical0/practical0.md):  [Jupyter Notebook 0](./practical0/practical0.ipynb) (Optional)
-* [Practicals 1](./practical1/practical1.md):  [Jupyter Notebook 1](./practical1/practical1.ipynb)
-* [Practicals 2](./practical2/practical2.md):  [Jupyter Notebook 2](./practical2/practical2.ipynb)
-* [Practicals 3](./practical3/practical3.md):  [Jupyter Notebook 3](./practical3/practical3.ipynb)
-* [Practicals 4](./practical4/practical4.md) ::  [Jupyter Notebook 4](./practical4/practical4.ipynb)
-* [Practicals 5](./practical5/practical5.md) ::  [Jupyter Notebook 5](./practical5/practical5.ipynb)
+* [Jupyter Notebook 0](./practical0/practical0.ipynb) (Optional)
+* [Jupyter Notebook 1](./practical1/practical1.ipynb)
+* [Jupyter Notebook 2](./practical2/practical2.ipynb)
+* [Jupyter Notebook 3](./practical3/practical3.ipynb)
+* [Jupyter Notebook 4](./practical4/practical4.ipynb)
+* [Jupyter Notebook 5](./practical5/practical5.ipynb)
 * [Project](./Project/project.md)
 
 ## Difficulty levels 
