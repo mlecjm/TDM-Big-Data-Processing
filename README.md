@@ -13,6 +13,7 @@ Travaux pratiques pour le module Traitement de données massives
 * [Projet](fr/Projet/Projet.md)
 
 * [Exemples supplémentaires](examples/README.md)
+* [Docker](containers/README.md)
 
 ## English 
 ### Exercises
@@ -26,6 +27,7 @@ Travaux pratiques pour le module Traitement de données massives
 * [Project](en/Project/project.md)
 
 * [Additional examples](examples/README.md)
+* [Docker](containers/README.md)
 
 # Author
 * John Samuel
