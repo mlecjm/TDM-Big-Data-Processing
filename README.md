@@ -33,6 +33,7 @@ Travaux pratiques pour le module Traitement de données massives
 * John Samuel
 
 ## Archives and Releases
+* [Zenodo](https://doi.org/10.5281/zenodo.4732884)
 * [Release Notes](RELEASE.md)
 
 ## Licence
