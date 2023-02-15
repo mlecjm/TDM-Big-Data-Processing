@@ -65,5 +65,11 @@ jobs:
         rm tmp.ipynb
         cd ../../ ; cd examples/
         papermill Examples-Visualization.ipynb tmp.ipynb
+        papermill Examples.ipynb tmp.ipynb
+        papermill decisiontree.ipynb tmp.ipynb
+        papermill mlp.ipynb tmp.ipynb
+        papermill perceptron.ipynb tmp.ipynb
+        papermill rfc.ipynb tmp.ipynb
+        papermill svm.ipynb tmp.ipynb
         rm tmp.ipynb
 
