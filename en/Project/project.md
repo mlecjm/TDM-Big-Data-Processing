@@ -173,6 +173,8 @@ The criteria for the project evaluation is given below:
         diagrams, a summary of different tasks achieved, and limitations
     3. Bibliography
 
+**Note**: You can check [supplementary examples](../../examples) of noteooks.
+
 ## Project Part 2
 
 The goal of this part is to modularize the different tasks done in Part 1
@@ -198,3 +200,5 @@ The criteria for the project evaluation is given below:
 2. Use of Docker volumes for data sharing between different containers.
 3. Use of map-reduce framework and lambda expressions.
 4. Use of pyspark.
+
+**Note**: You can check [supplementary examples](../../examples) of Docker containers.
