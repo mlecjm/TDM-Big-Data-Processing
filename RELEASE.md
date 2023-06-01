@@ -1,3 +1,11 @@
+# v1.2
+===============================================================================
+- Update code to reflect recent version
+- Update exercises and project description
+- Add supplementary examples
+- Update package requirements
+- Indent code using black
+
 # v1.1
 ===============================================================================
 - Add support for Jupyterbook
