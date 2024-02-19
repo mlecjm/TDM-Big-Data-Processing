@@ -7,3 +7,4 @@
 - [Multi-layer Perceptron classifier](mlp.ipynb)
 - [Decision Tree](decisiontree.ipynb)
 - [Randorm Forest Classifier](rfc.ipynb)
+- [Recommendation System](recommendation.ipynb)
