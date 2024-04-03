@@ -8,3 +8,5 @@
 - [Decision Tree](decisiontree.ipynb)
 - [Randorm Forest Classifier](rfc.ipynb)
 - [Recommendation System](recommendation.ipynb)
+- [Agglomerative Clustering](agglomerative_clustering.ipynb)
+- [DBSCAN Clustering](dbscan_clustering.ipynb)
