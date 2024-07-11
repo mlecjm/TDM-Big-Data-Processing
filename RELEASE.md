@@ -1,3 +1,13 @@
+# v1.3
+===============================================================================
+- Add installation page
+- Add example on recommendation
+- Update exercises
+- Add example on ipywidgets and user interaction
+- Add examples on DBSCAN and agglomerative clustering
+- Add images
+- Update workflow action
+
 # v1.2
 ===============================================================================
 - Update code to reflect recent version
