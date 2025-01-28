@@ -8,6 +8,8 @@
 * [Jupyter Notebook 3](./practical3/practical3.ipynb)
 * [Jupyter Notebook 4](./practical4/practical4.ipynb)
 * [Jupyter Notebook 5](./practical5/practical5.ipynb)
+* [Jupyter Notebook 6](./practical6/practical6.ipynb)
+* [Jupyter Notebook 7](./practical7/practical7.ipynb)
 * [Project](./Project/project.md)
 * [Some examples](./examples/Examples.ipynb)
 

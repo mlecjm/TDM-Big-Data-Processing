@@ -9,6 +9,8 @@ Travaux pratiques pour le module Traitement de données massives
 * [TP3: Notebook Jupyter 3](./TP3/tp3.ipynb)
 * [TP4: Notebook Jupyter 4](./TP4/tp4.ipynb)
 * [TP5: Notebook Jupyter 5](./TP5/tp5.ipynb)
+* [TP6: Notebook Jupyter 6](./TP6/tp6.ipynb)
+* [TP7: Notebook Jupyter 7](./TP7/tp7.ipynb)
 * [Projet](./Projet/Projet.md)
 
 

@@ -11,6 +11,8 @@ Travaux pratiques pour le module Traitement de données massives
 * [Notebook Jupyter 3](fr/TP3/tp3.ipynb)
 * [Notebook Jupyter 4](fr/TP4/tp4.ipynb)
 * [Notebook Jupyter 5](fr/TP5/tp5.ipynb)
+* [Notebook Jupyter 6](fr/TP6/tp6.ipynb)
+* [Notebook Jupyter 7](fr/TP7/tp7.ipynb)
 * [Projet](fr/Projet/Projet.md)
 
 * [Exemples supplémentaires](examples/README.md)
@@ -26,6 +28,8 @@ Travaux pratiques pour le module Traitement de données massives
 * [Jupyter Notebook 3](en/practical3/practical3.ipynb)
 * [Jupyter Notebook 4](en/practical4/practical4.ipynb)
 * [Jupyter Notebook 5](en/practical5/practical5.ipynb)
+* [Jupyter Notebook 6](en/practical6/practical6.ipynb)
+* [Jupyter Notebook 7](en/practical7/practical7.ipynb)
 * [Project](en/Project/project.md)
 
 * [Additional examples](examples/README.md)
